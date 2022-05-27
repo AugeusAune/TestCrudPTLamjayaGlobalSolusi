@@ -4,4 +4,4 @@
 
 - **Clone Repository ini**
 - **Buat database bernama pegawai / bisa diganti di .env di bagian DB_DATABASE=yourdatabase**
-- **Buka terminal di project ini lalu jalankan Perintah php aritsan migrate**
+- **Buka terminal di project ini lalu jalankan Perintah php artisan migrate**
