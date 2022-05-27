@@ -21,7 +21,7 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-### Premium Partners
+### Cara Install Web Ini
 
 - **Clone Repository ini**
 - **Buat database bernama pegawai / bisa diganti di .env di bagian DB_DATABASE=yourdatabase**
